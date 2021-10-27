@@ -15,10 +15,8 @@ https://arxiv.org/ftp/arxiv/papers/1604/1604.02878.pdf
 https://towardsdatascience.com/how-does-a-face-detection-program-work-using-neural-networks-17896df8e6ff
 
 
-# Demo:
 
 
-<img src="images/demo.png" alt="workflow" width="70%">
 
 
 # Authors:
