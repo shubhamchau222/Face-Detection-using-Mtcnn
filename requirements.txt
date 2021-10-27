@@ -1,5 +1,6 @@
 opencv-python==4.1.2.30
 Pillow==7.0.0
 pandas==0.25.3
-numpy==1.18.1
+numpy==1.19.1
 mtcnn==0.1.0
+tensorflow==1.14.0
